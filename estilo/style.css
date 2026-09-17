@@ -39,6 +39,7 @@ header > h1 {
 
 header > p {
     padding-bottom: 50px; /*parte de baixo do cabecario*/
+    font-family: var(--fonte1);
 }
 
 a {
